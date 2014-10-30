@@ -2,7 +2,7 @@
 title: dominica
 email: ekt.batey@gmail.com
 description: This is a project for the analysis of the historical demography in the Commonwealth of Dominica 
-baseurl: "/dominica" # the subpath of your site, e.g. /blog/
+baseurl: "/dominica/" # the subpath of your site, e.g. /blog/
 url: "http://bateyt.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  bateyt
