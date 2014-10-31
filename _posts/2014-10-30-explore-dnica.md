@@ -10,10 +10,7 @@ Today, the [Carib Territory](http://en.wikipedia.org/wiki/Carib_Territory) in no
 
 Dominica is an incredible place Honychurch (1995).
 
+
 ## References
 
-
-{% highlight text %}
-## [1] L. Honychurch. _The Dominica Story: A History of the Island_.
-## Macmillan, 1995.
-{% endhighlight %}
+[1] L. Honychurch. _The Dominica Story: A History of the Island_. Macmillan, 1995.
