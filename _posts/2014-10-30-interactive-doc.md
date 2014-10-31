@@ -28,7 +28,7 @@ cocaine %>%
 ## Generating a static (non-dynamic, non-interactive) version of the plot.
 {% endhighlight %}
 
-<!--html_preserve--><div id="plot_id702921086-container" class="ggvis-output-container">
+<div id="plot_id702921086-container" class="ggvis-output-container">
 <div id="plot_id702921086" class="ggvis-output"></div>
 <div class="plot-gear-icon">
 <nav class="ggvis-control">
