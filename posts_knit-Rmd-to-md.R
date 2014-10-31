@@ -11,4 +11,4 @@ KnitPost <- function(input, base.url = myjekyllsite) {
 }
 
 # be sure to edit file name for the original RMarkdown file
-KnitPost("~/GitHub/dominica/Rmd/2014-10-30-testpost.Rmd")
+KnitPost("~/GitHub/dominica/Rmd_temp/2014-10-30-explore-dnica.Rmd")

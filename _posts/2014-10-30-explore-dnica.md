@@ -2,7 +2,7 @@
 layout: post
 title: "Exploring historical demography in Dominica"
 bibliography: dnica.bib
-csl: AmJPhysAnthropol.csl
+csl: american-journal-of-physical-anthropology.csl
 ---
 
 
