@@ -210,7 +210,7 @@ var plot_id702921086_spec = {
 }
 ;
 ggvis.getPlot("plot_id702921086").parseSpec(plot_id702921086_spec);
-</script><!--/html_preserve-->
+</script>
 
 
 An interactive plot:
