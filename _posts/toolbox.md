@@ -18,5 +18,4 @@ This page provides a running list of the tools used in conjunction with this pro
 
 ## References
 
-[1] H. Caswell. _Matrix Population Models: Construction, Analysis,
-and Interpretation_. Sinauer Associates, 2001.
+[1] H. Caswell. _Matrix Population Models: Construction, Analysis, and Interpretation_. Sinauer Associates, 2001.
