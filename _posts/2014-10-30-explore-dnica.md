@@ -28,13 +28,8 @@ The data are comprised of parish death records from 1917 to 1971. Below is the a
 ### References
 
 
-{% highlight text %}
-## [1] L. Honychurch. _The Dominica Story: A History of the Island_.
-## Macmillan, 1995.
-## 
-## [2] H. Wickham. _ggplot2: elegant graphics for data analysis_. New
-## York: Springer, 2009.
-## 
-## [3] L. Wilkinson, D. Wills, D. Rope, et al. _The Grammar of
-## Graphics_. New York: Springer, 2006.
-{% endhighlight %}
+[1] L. Honychurch. _The Dominica Story: A History of the Island_. Macmillan, 1995.
+
+[2] H. Wickham. _ggplot2: elegant graphics for data analysis_. New York: Springer, 2009.
+
+[3] L. Wilkinson, D. Wills, D. Rope, et al. _The Grammar of Graphics_. New York: Springer, 2006.
