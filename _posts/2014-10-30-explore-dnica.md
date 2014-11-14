@@ -19,7 +19,9 @@ download.file("https://www.dropbox.com/s/i8dcx7o4lo36tb2/dnica2.txt?dl=1", "dnic
 dnica2 <- read.table("dnica2.txt", header = TRUE, sep = "\t")
 {% endhighlight %}
 
-The data are comprised of parish death records from 1917 to 1971.
+The data are comprised of parish death records from 1917 to 1971. Below is the age-at-death distribution of the sample.
+
+<iframe frameborder="0" allowtransparency="true" scrolling="no" height="450" width="100%" src="https://bateyt.shinyapps.io/dnica_age-hist/"></iframe>
 
 
 

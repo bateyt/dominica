@@ -1,0 +1,25 @@
+---
+layout: page
+title: Toolbox
+permalink: /toolbox/
+---
+
+This page provides a running list of the tools used in conjunction with this project. The bulk of the items are R packages, though some are no longer maintained.
+
+------
+
+```{r, echo=FALSE, message=FALSE}
+library(knitcitations)
+bib <- read.bibtex("demog_toolbox.bib")
+```
+
+## R Packages
+
+- [`popbio`](http://cran.r-project.org/web/packages/popbio/index.html):  This package includes tools for working with matrix population models and includes examples from `r citep(bib[["caswell2001matrix"]])`.
+    
+
+
+## References
+```{r, echo=FALSE}
+bibliography()
+```

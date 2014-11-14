@@ -1,0 +1,844 @@
+id	site	sex	birth	death	age	cod	un.code	comments
+82	Bat		1820	1920	100.0000	old age	794	
+225	GR		1933	1933	0.6667	whooping cough	33.9	
+31	Sal	1	1831	1926	95.0000	dropsy	267	malnutrition (?)
+131	Sal	1	1832	1929	97.0000	pyrexia (fever)	788.6	
+214	Snake	1	1834	1932	98.0000	old age	794	"""Snake Coel"" (?)"
+92	CR	1	1840	1924	84.0000	diarrhea	9.1	
+233	GR	1	1841	1936	95.0000	heart failure	427	
+262	St. Cyr.	1	1844	1936	92.0000	heart failure	427	
+434	St. Cyr.	1	1849	1939	90.0000	old age	794	senility
+71	Bat	1	1853	1923	70.0000	diarrhea	9.1	
+145	Sal	1	1853	1933	80.0000	urnine toxemia	796	
+507	Sal	1	1855	1951	96.0000	old age	794	senile decay
+394	CR	1	1856	1946	90.0000	old age	794	senile decay
+435	St. Cyr.	1	1856	1944	88.0000	old age	794	senile decay
+589	GR	1	1856	1950	94.0000	nephritis	590.1	
+371	Bat	1	1859	1939	80.0000	old age	794	senility
+176	Bat	1	1863	1936	73.0000	pneumonia	486	
+395	CR	1	1863	1946	83.0000	old age	794	senile decay
+80	Bat	1	1864	1926	62.0000	malnutrition (?)	267	bowel/liver complaint
+123	Unknown	1	1864	1924	59.0000	pyrexia (fever)	788.6	
+228	GR	1	1864	1934	70.0000	drowning	994.1	
+106	GR	1	1867	1917	50.0000	diarrhea	9.1	
+267	Marigot	1	1867	1928	60.0000	drowning	994.1	
+375	Bat	1	1867	1946	79.0000	old age	794	senile debility
+392	CR	1	1867	1939	72.0000	arteriosclerosis	440.9	"site is ""C. Riv.""; same as ""CR"" (?)"
+711	Bat	1	1867	1957	90.0000	old age	794	senility
+760	Sinecou	1	1867	1957	90.0000	diarrhea	9.1	senility
+121	Cast. Bruce	1	1868	1918	50.0000	diarrhea	9.1	
+119	Unknown	1	1869	1925	56.0000	dry coffing	11.9	
+137	Sal	1	1869	1930	61.0000	TB	11.9	consumption
+319	Sal	1	1869	1937	68.0000	pneumonia	486	
+393	CR	1	1869	1939	70.0000	arteriosclerosis	440.9	"site is ""C. Riv.""; same as ""CR"" (?)"
+550	Bat	1	1869	1949	80.0000	old age	794	senility
+484	Sal	1	1873	1953	80.0000	drowning	994.1	
+496	Sal	1	1873	1949	76.0000	heart failure	427	penicordosis
+713	Bat	1	1873	1962	89.0000	old age	794	senility
+416	GR	1	1874	1944	70.0000	old age	794	senile decay
+218	GR	1	1875	1929	54.0000	diarrhea	9.1	
+259	St. Cyr.	1	1875	1935	60.0000	diarrhea	9.1	dysentery
+144	Sal	1	1876	1931	55.0000	pneumonia	486	
+374	Bat	1	1876	1946	70.0000	old age	794	senile debility
+590	GR	1	1876	1947	71.0000	heart failure	427	"cardiac disease; site is ""Gaul R.""--same as ""GR"" (?)"
+124	Sal	1	1877	1927	50.0000	diarrhea	9.1	paralysis
+549	Bat	1	1878	1948	70.0000	old age	794	senility
+146	Sal	1	1879	1936	57.0000	heart disease	427	
+505	Sal	1	1879	1949	70.0000	old age	794	hyperchtis; senile
+116	Sana Bay	1	1880	1919	39.0000	drowning	994.1	
+142	Sal	1	1880	1930	50.0000	malnutrition (?)	267	dropsy
+171	Bat	1	1880	1928	48.0000	accident	996	fell from a tree
+194	CR	1	1880	1935	55.0000	apoplexy	436	
+376	Bat	1	1880	1946	66.0000	unknown	796.9	
+573	CR	1	1880	1955	75.0000	old age	794	senility
+227	GR	1	1881	1931	50.0000	pleurisy/TB	12.1	
+372	Bat	1	1882	1942	60.0000	old age	794	senile debility
+32	Sal	1	1883	1918	35.0000	blood disorder	289.9	
+120	Unknown	1	1883	1923	40.0000	diarrhea	9.1	
+138	Sal	1	1883	1932	49.0000	TB	11.9	consumption
+232	GR	1	1883	1934	51.0000	chronic nephritis ureamia diarrhea	9.1	
+13	Sal	1	1884	1918	34.0000	diarrhea	9.1	
+168	Bat	1	1884	1934	50.0000	malaria	84	
+509	Sal	1	1885	1955	70.0000	old age	794	senility
+816	CR	1	1885	1967	82.0000	heart failure	427	
+88	CR	1	1886	1921	35.0000	pyrexia (fever)	788.6	
+293	Sal	1	1886	1941	55.0000	TB	11.9	
+109	GR	1	1887	1917	30.0000	trauma	996.8	head cuff./blows
+152	Bat	1	1887	1927	40.0000	diarrhea	9.1	
+175	Bat	1	1889	1928	39.0000	pneumonia	486	
+477	Sal	1	1889	1954	65.0000	malnutrition (?)	267	
+750	St. Cyr.	1	1889	1959	70.0000	anaemia	285.9	
+94	CR	1	1890	1920	30.0000	TB	11.9	dead coffing
+702	Bat	1	1890	1965	75.0000	cerebral thrombosis	433.9	underlying artheriosclerosis (440.9)
+826	St. Cyr.	1	1890	1970	80.0000	gastroenteritis	9.2	
+842	Sinecou	1	1890	1971	81.0000	asthmatic bronchitis	490	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+25	Sal	1	1891	1919	28.0000	pyrexia (fever)	788.6	
+35	Sal	1	1891	1920	29.0000	accident	796	
+266	Marigot	1	1891	1930	39.0000	drowning	994.1	
+177	Bat	1	1892	1927	35.0000	heart failure	427	
+310	Sal	1	1892	1940	48.0000	drowning	994.1	"site is ""Saly""; same as ""Sal"" (?)"
+360	Bat	1	1892	1943	50.0000	anaemia	285.9	
+487	Sal	1	1892	1952	60.0000	accident	796	shock
+540	Bat	1	1893	1953	60.0000	anaemia	285.9	
+636	Snake	1	1893	1948	55.0000	ateriosclerosis	440.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+716	Bat	1	1893	1959	66.0000	unknown	796.9	
+61	Bat	1	1894	1926	32.0000	pleurisy/TB	12.1	
+311	Sal	1	1894	1940	46.0000	drowning	994.1	"site is ""Saly""; same as ""Sal"" (?)"
+401	GR	1	1894	1937	43.0000	pleurisy/TB	12.1	
+451	Sal	1	1894	1952	58.0000	ancylostomiasis	126.9	anaemia; hookworm
+117	Sana Bay	1	1895	1919	24.0000	drowning	994.1	
+362	Bat	1	1895	1945	50.0000	anaemia	285.9	
+498	Sal	1	1895	1950	55.0000	heart failure	427	
+795	Bat	1	1895	1969	74.0000	rheumatic fever	390	
+58	Bat	1	1896	1919	23.0000	pleurisy/TB	12.1	
+264	Marigot	1	1896	1930	34.0000	drowning	994.1	
+265	Marigot	1	1896	1930	34.0000	drowning	994.1	
+281	Sal	1	1896	1944	48.0000	malaria	84	
+78	Bat	1	1897	1917	20.0000	diarrhea	9.1	
+215	Snake	1	1897	1927	30.0000	pneumonia	486	
+457	Sal	1	1897	1947	50.0000	malaria	84	
+503	Sal	1	1897	1952	55.0000	infected apithomia (?)	796.9	
+83	Bat	1	1898	1921	23.0000	drowning	994.1	
+545	Bat	1	1898	1953	55.0000	unknown	796.9	
+634	Snake	1	1898	1948	50.0000	fistula pulmonary	510	"site is ""Snake Coe""; same as ""Snake"" (?)"
+789	Sal	1	1898	1969	71.0000	accident	796	
+48	Bat	1	1899	1919	20.0000	pyrexia (fever)	788.6	
+728	CR	1	1899	1966	67.0000	kidney failure	593.2	
+811	Bat	1	1899	1971	72.0000	unknown	796.9	
+365	Bat	1	1900	1943	43.0000	pneumonia	486	
+730	CR	1	1900	1960	60.0000	apoplexy	436	"anaemia, nephritis"
+93	CR	1	1901	1919	18.0000	pleurisy/TB	12.1	
+263	St. Cyr.	1	1901	1933	32.0000	apoplexy	436	
+491	Sal	1	1901	1956	55.0000	anaemia	285.9	
+821	GR	1	1901	1971	70.0000	asthma	493	
+568	CR	1	1902	1955	53.0000	pulmonary TB	11.9	
+788	Sal	1	1902	1969	67.0000	broncho-pneumonia	485	
+29	Sal	1	1904	1917	13.0000	pleurisy/TB	12.1	
+95	CR	1	1904	1921	17.0000	pleurisy/TB	12.1	
+196	CR	1	1904	1928	24.0000	liver abscess	572	
+211	Snake	1	1904	1929	25.0000	pleurisy/TB	12.1	"""Snak"" (?)"
+108	GR	1	1905	1920	15.0000	diarrhea	9.1	
+229	GR	1	1905	1927	12.0000	drowning	994.1	
+358	Bat	1	1905	1943	38.0000	drowning	994.1	
+399	GR	1	1905	1945	40.0000	bronchitis	490	"site is ""Gaul. Riv.""; same as ""GR"" (?)"
+717	Bat	1	1905	1959	54.0000	unknown	796.9	euteria (?)
+69	Bat	1	1906	1925	19.0000	diarrhea	9.1	
+62	Bat	1	1907	1926	19.0000	pleurisy/TB	12.1	
+135	Sal	1	1907	1929	22.0000	pleurisy/TB	12.1	
+315	Sal	1	1907	1937	30.0000	heart failure	427	
+687	Bat	1	1907	1957	50.0000	pulmonary TB	11.9	
+34	Sal	1	1908	1918	10.0000	accident	796	
+468	Sal	1	1908	1956	48.0000	TB	11.9	
+230	GR	1	1909	1929	20.0000	drowning	994.1	
+497	Sal	1	1909	1949	40.0000	heart failure	427	peritoritis
+697	Bat	1	1909	1959	50.0000	ptomaine poisoning	5.9	
+222	GR	1	1910	1928	18.0000	pyrexia (fever)	788.6	
+223	GR	1	1910	1929	19.0000	pyrexia (fever)	788.6	
+277	Sal	1	1910	1940	30.0000	diarrhea	9.1	"dysentery; site is ""Saly.""--same as ""Sal"" (?)"
+312	Sal	1	1910	1940	30.0000	drowning	994.1	"site is ""Saly""; same as ""Sal"" (?)"
+605	St. Cyr.	1	1910	1953	43.0000	pulmonary TB	11.9	
+96	CR	1	1911	1924	13.0000	pleurisy/TB	12.1	
+467	Sal	1	1911	1956	45.0000	pulmonary TB	11.9	
+703	Bat	1	1911	1965	54.0000	heart failure	427	underlying artheriosclerosis (440.9)
+317	Sal	1	1913	1946	33.0000	anaemia	285.9	
+668	Sal	1	1913	1966	53.0000	heart failure	427	
+46	Bat	1	1914	1917	3.0000	pyrexia (fever)	788.6	
+107	GR	1	1914	1917	3.0000	diarrhea	9.1	
+309	Sal	1	1914	1940	26.0000	drowning	994.1	"site is ""Saly""; same as ""Sal"" (?)"
+363	Bat	1	1914	1943	29.0000	drowning	994.1	
+397	GR	1	1914	1939	25.0000	influenza	470	"site is ""Gaul. Riv.""; same as ""GR"" (?)"
+412	GR	1	1914	1945	31.0000	anaemia	285.9	"site is ""Gaul. R.""; same as ""GR"" (?)"
+488	Sal	1	1914	1954	40.0000	accident	796	internal injury
+191	CR	1	1915	1934	19.0000	malaria	84	
+493	Sal	1	1915	1951	36.0000	anaemia	285.9	oedema
+59	Bat	1	1916	1920	4.0000	pleurisy/TB	12.1	
+105	GR	1	1916	1919	3.0000	pyrexia (fever)	788.6	
+15	Sal	1	1917	1918	1.6700	diarrhea	9.1	
+76	Bat	1	1917	1918	1.5000	diarrhea	9.1	
+89	CR	1	1917	1918	1.5000	diarrhea	9.1	
+564	CR	1	1917	1947	30.0000	pulmonary TB	11.9	
+775	Sinecou	1	1917	1957	40.0000	adenoiditis	500	"""tonsilitis"" (?)"
+14	Sal	1	1918	1918	0.0110	diarrhea	9.1	
+90	CR	1	1918	1918	0.1667	diarrhea	9.1	
+112	Snake	1	1918	1920	2.0000	diarrhea	9.1	
+169	Bat	1	1918	1934	16.0000	malaria	84	
+486	Sal	1	1918	1948	30.0000	accident	796	internal hemorage
+26	Sal	1	1919	1919	0.0082	pyrexia (fever)	788.6	
+49	Bat	1	1919	1919	0.0082	pyrexia (fever)	788.6	
+236	GR	1	1919	1936	17.0000	pneumonia	486	
+366	Bat	1	1919	1943	24.0000	pneumonia	486	
+485	Sal	1	1919	1956	37.0000	drowning	994.1	
+45	Bat	1	1920	1920	0.0000	stillborn	779.9	
+99	GR	1	1920	1920	0.0000	stillborn	779.9	
+113	Snake	1	1920	1920	0.0137	worms	128	
+132	Sal	1	1920	1929	9.0000	inflamation	136	
+258	St. Cyr.	1	1920	1935	15.0000	drowning	994.1	
+282	Sal	1	1920	1942	22.0000	influenza	470	
+346	Bat	1	1920	1944	24.0000	pulmonary TB	11.9	
+384	CR	1	1920	1937	17.0000	malaria	84	
+538	Bat	1	1920	1951	31.0000	nephritis	590.1	anaemia
+6	Sal	1	1921	1921	0.0000	stillborn	779.9	
+7	Sal	1	1921	1921	0.0000	stillborn	779.9	
+44	Bat	1	1921	1921	0.0000	stillborn	799.9	
+67	Bat	1	1921	1921	0.0493	worms	128	
+114	Snake	1	1921	1921	0.8333	worms	128	
+127	Sal	1	1921	1929	8.0000	worms	128	
+389	CR	1	1921	1946	25.0000	pulmonary TB	11.9	
+10	Sal	1	1922	1922	0.0833	tetanus	37	
+50	Bat	1	1922	1922	0.1667	Alastrim	50.1	similar to smallpox (Variola minor)
+86	CR	1	1922	1922	0.0219	tetanus	37	
+344	Bat	1	1922	1940	18.0000	TB	11.9	
+783	Sal	1	1922	1967	45.0000	heart failure	427	pulmonary emolism
+27	Sal	1	1923	1923	0.0959	kaffirpox	50.1	kaffirpox same as Alastrim (?)
+28	Sal	1	1923	1923	0.0384	Alastrim	50.1	
+42	Bat	1	1923	1923	0.0000	stillborn	779.9	
+43	Bat	1	1923	1923	0.0000	stillborn	779.9	
+51	Bat	1	1923	1923	0.3333	pyrexia (fever)	788.6	
+122	Unknown	1	1923	1923	0.0833	Alastrim	50.1	
+635	Snake	1	1923	1949	26.0000	chronic nephritis	590.1	"site is ""Snake Coe""; same as ""Snake"" (?)"
+704	Bat	1	1923	1957	34.0000	sarcoma of pelvic bone	199.1	
+402	GR	1	1924	1937	13.0000	pulmonary TB	11.9	
+674	Sal	1	1924	1963	39.0000	cirrhosis of liver	571	
+40	Bat	1	1925	1925	0.0000	stillborn	779.9	
+52	Bat	1	1925	1925	0.2115	pyrexia (fever)	788.6	
+53	Bat	1	1925	1926	0.9167	pyrexia (fever)	788.6	chest cold
+147	Sal	1	1925	1932	7.0000	abdominal pain	785.5	
+345	Bat	1	1925	1944	19.0000	pulmonary TB	11.9	
+566	CR	1	1925	1949	24.0000	TB	11.9	
+651	Sal	1	1925	1960	35.0000	TB	11.9	
+56	Bat	1	1926	1926	0.0219	tetanus	37	
+57	Bat	1	1926	1926	0.0493	tetanus	37	
+224	GR	1	1926	1931	5.0000	influenza	470	
+295	Sal	1	1926	1941	15.0000	TB	11.9	
+151	Bat	1	1927	1927	0.0192	tetanus	37	
+157	Bat	1	1927	1927	3.0000	worms	128	"birth and death years were recorded as ""1927,"" so one is incorrect"
+203	Snake	1	1927	1927	0.0027	tetanus	37	
+810	Bat	1	1927	1970	43.0000	asthma	493	
+193	CR	1	1928	1929	0.9167	blows. (?)	996.8	
+241	St. Cyr.	1	1928	1930	2.0000	worms	128	
+535	Bat	1	1928	1952	24.0000	drowning	994.1	
+565	CR	1	1928	1948	20.0000	pulmonary TB	11.9	
+567	CR	1	1928	1953	25.0000	TB	11.9	
+800	Bat	1	1928	1971	43.0000	drowning	994.1	
+133	Sal	1	1929	1929	0.3333	inflamation	136	
+148	Sal	1	1929	1929	0.2500	constipation	564	
+154	Bat	1	1929	1931	2.0000	diarrhea	9.1	
+165	Bat	1	1929	1929	0.0082	inflamation	136	
+166	Bat	1	1929	1929	0.0833	pyrexia (fever)	788.6	
+501	Sal	1	1929	1949	20.0000	sudden	796.9	
+665	Sal	1	1929	1964	35.0000	drowning	994.1	
+414	MR	1	1930	1939	9.0000	pneumonia	486	"site is ""Mah. Riv.""; same as ""MR"" (?)"
+517	Bat	1	1930	1953	23.0000	ancylostomiasis	126.9	anaemia; hookworm
+209	Snake	1	1931	1932	1.2500	worms	128	"""Snake Coel"" (?)"
+247	St. Cyr.	1	1931	1931	0.2500	influenza	470	
+279	Sal	1	1931	1945	14.0000	malaria	84	
+202	Snake	1	1932	1932	0.0000	stillborn	779.9	"site name on card is ""Snake Coel"" (?)"
+208	Snake	1	1932	1932	0.8333	worms	128	"""Snake Coel"" (?)"
+248	St. Cyr.	1	1932	1932	0.2500	influenza	470	
+534	Bat	1	1932	1952	20.0000	drowning	994.1	
+664	Sal	1	1932	1957	25.0000	drowning	994.1	"site is ""Salybia""; same as ""Sal"" (?)"
+164	Bat	1	1933	1933	0.1667	whooping cough	33.9	
+182	CR	1	1933	1933	0.0000	stillborn	779.9	
+183	CR	1	1933	1933	0.0000	stillborn	779.9	
+210	Snake	1	1933	1933	0.2500	whooping cough	33.9	
+250	St. Cyr.	1	1933	1933	0.0833	whooping cough	33.9	
+563	CR	1	1933	1947	14.0000	ancylostomiasis	126.9	antiglostomiasis
+200	CR	1	1934	1935	0.9167	unknown	796.9	
+205	Snake	1	1934	1934	0.0082	gastroenteritis	9.2	"site name on card is ""Snak"" (?)"
+206	Snake	1	1934	1934	0.8333	gastroenteritis	9.2	"site name on card is ""Snak"" (?)"
+234	MR	1	1934	1934	0.0219	accident	796	mother fell
+313	Sal	1	1934	1937	3.0000	toxaemia	796	
+348	Bat	1	1934	1940	6.0000	malnutrition (?)	267	
+405	GR	1	1934	1945	11.0000	malnutrition (?)	267	
+465	Sal	1	1934	1954	20.0000	pulmonary TB	11.9	
+244	St. Cyr.	1	1935	1936	1.1667	worms	128	anaemia
+245	St. Cyr.	1	1935	1936	1.5833	worms	128	anaemia
+251	St. Cyr.	1	1935	1935	0.0833	influenza	470	
+256	St. Cyr.	1	1935	1935	0.0301	TB	11.9	
+404	GR	1	1935	1943	8.0000	malnutrition (?)	267	
+447	Sal	1	1935	1950	15.0000	ancylostomiasis	126.9	anaemia; hookworm
+172	Bat	1	1936	1936	0.0014	toxaemia	796	
+284	Sal	1	1936	1941	5.0000	malaria	84	
+442	Snake	1	1936	1937	1.0833	toxaemia	796	"site is ""Snake Coe""; same as ""Snake"" (?)"
+799	Bat	1	1936	1971	35.0000	drowning	994.1	
+325	Bat	1	1937	1937	0.0000	stillborn	779.9	
+410	MR	1	1937	1943	6.0000	nophritis (acute)	590.1	
+411	GR	1	1937	1937	0.7500	toxaemia	796	
+417	St. Cyr.	1	1937	1937	0.0000	stillborn	779.9	
+424	St. Cyr.	1	1937	1938	1.0000	worms	128	
+433	St. Cyr.	1	1937	1937	0.0548	unknown	796.9	
+577	GR	1	1937	1947	10.0000	diarrhea	9.1	"dysentary; site is ""Gaul R.""--same as ""GR"""
+667	Sal	1	1937	1964	27.0000	heart failure	427	
+801	Bat	1	1937	1969	32.0000	trauma	996.8	skull fracture (trauma to brain)
+326	Bat	1	1938	1938	0.0000	stillborn	779.9	
+347	Bat	1	1938	1939	1.6667	malnutrition (?)	267	
+349	Bat	1	1938	1942	4.5000	marasmus	268	
+353	Bat	1	1938	1944	6.0000	malnutrition (?)	267	
+432	St. Cyr.	1	1938	1943	5.0000	anaemia	285.9	
+600	St. Cyr.	1	1938	1953	15.0000	ancylostomiasis	126.9	anaemia; hookworm
+630	Snake	1	1938	1955	17.0000	anaemia	285.9	"""pernicious"" anaemia; site is ""Snake Coe""--same as ""Snake"" (?)"
+633	Snake	1	1938	1952	14.0000	pneumonia	486	"site is ""Snake Coe""; same as ""Snake"" (?)"
+396	MR	1	1939	1940	1.0000	gastroenteritis	9.2	"site is ""Mah. Riv.""; same as ""MR"" (?)"
+406	GR	1	1939	1946	7.0000	malnutrition (?)	267	"site is ""Gau R.""; same as ""GR"" (?)"
+459	Sal	1	1939	1947	8.0000	whooping cough	33.9	
+691	Bat	1	1939	1958	19.0000	malnutrition (?)	267	
+292	Sal	1	1940	1941	1.0000	whooping cough	33.9	
+330	Bat	1	1940	1940	0.0000	stillborn	779.9	
+408	GR	1	1940	1946	6.0000	malnutrition (?)	267	"site is ""Gau R.""; same as ""GR"" (?)"
+272	Sal	1	1941	1941	0.0000	stillborn	779.9	
+273	Sal	1	1941	1941	0.0000	stillborn	779.9	
+286	Sal	1	1941	1941	0.2500	whooping cough	33.9	
+289	Sal	1	1941	1941	0.0110	whooping cough	33.9	
+290	Sal	1	1941	1941	0.0959	whooping cough	33.9	
+308	Sal	1	1941	1941	0.7500	malnutrition (?)	267	
+518	Bat	1	1941	1954	13.0000	worms	128	anaemia
+584	GR	1	1941	1951	10.0000	malnutrition (?)	267	anaemia
+305	Sal	1	1942	1942	0.2500	malnutrition (?)	267	
+333	Bat	1	1943	1943	0.0000	stillborn	779.9	
+391	CR	1	1943	1945	2.0000	malnutrition (?)	267	
+440	Snake	1	1943	1945	2.0000	malnutrition (?)	267	"site is ""Snake Coe""; same as ""Snake"" (?)"
+500	Sal	1	1943	1948	5.0000	asthenia	790.1	asthenius
+379	CR	1	1944	1945	1.0000	diarrhea	9.1	
+407	GR	1	1944	1946	2.0000	malnutrition (?)	267	"site is ""Gau R.""; same as ""GR"" (?)"
+627	Snake	1	1944	1952	8.0000	anaemia	285.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+599	St. Cyr.	1	1945	1951	6.0000	ancylostomiasis	126.9	anaemia; hookworm
+629	Snake	1	1945	1954	9.0000	anaemia	285.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+275	Sal	1	1946	1946	0.0000	premature	777	
+514	Bat	1	1946	1948	2.5000	ascariasis	127	
+604	St. Cyr.	1	1946	1947	1.0000	whooping cough	33.9	
+469	Sal	1	1947	1949	2.0000	malnutrition (?)	267	
+558	CR	1	1947	1947	0.0000	premature	777	
+559	CR	1	1947	1947	0.0000	premature	777	
+715	Bat	1	1947	1958	11.0000	sudden	796.9	
+448	Sal	1	1948	1951	3.9167	worms	128	helicuthiaris convulsions
+519	Bat	1	1948	1950	2.5000	whooping cough	33.9	
+595	St. Cyr.	1	1948	1948	0.0000	stillborn	779.9	
+596	St. Cyr.	1	1948	1948	0.0000	stillborn	779.9	
+443	Sal	1	1949	1949	0.0000	stillborn	779.9	
+471	Sal	1	1949	1950	0.7500	anaemia	67	malnutrition (?)
+510	Bat	1	1949	1949	0.0000	stillborn	779.9	mother fell
+516	Bat	1	1949	1953	4.0000	ascariasis	127	
+520	Bat	1	1949	1950	1.5000	whooping cough	33.9	
+569	CR	1	1949	1950	1.5000	malnutrition (?)	267	
+786	Sal	1	1949	1971	22.0000	heart failure	427	"site is ""Salybia""; same as ""Sal"" (?)"
+470	Sal	1	1950	1950	0.1667	malnutrition (?)	267	
+472	Sal	1	1950	1951	1.5000	malnutrition (?)	267	oedema
+522	Bat	1	1950	1956	6.0000	malnutrition (?)	267	
+557	Bat	1	1950	1956	6.3333	unknown	796.9	"""hypess"" (??)"
+561	CR	1	1950	1950	0.0000	stillborn	779.9	
+579	GR	1	1950	1953	3.0000	worms	128	
+597	St. Cyr.	1	1950	1950	0.4167	gastroenteritis	9.2	
+511	Bat	1	1951	1951	0.0000	stillborn	779.9	
+532	Bat	1	1951	1952	1.0000	malnutrition (?)	267	
+625	Sinecou	1	1951	1951	0.7500	whooping cough	33.9	
+512	Bat	1	1952	1952	0.0000	stillborn	779.9	
+531	Bat	1	1952	1953	1.2500	malnutrition (?)	267	
+612	St. Cyr.	1	1952	1952	0.0219	bleeding navel	458.9	
+621	Snake	1	1952	1952	0.0000	premature	777	"site is ""Snake Coe""; same as ""Snake"" (?)"
+637	Snake	1	1952	1952	0.0110	unknown	796.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+812	Bat	1	1952	1967	15.0000	unknown	796.9	
+475	Sal	1	1953	1953	0.0833	malnutrition (?)	267	
+530	Bat	1	1953	1954	1.1667	malnutrition (?)	267	
+546	Bat	1	1953	1953	0.0110	unknown	796.9	
+576	GR	1	1953	1953	0.0000	stillborn	779.9	
+617	St. Cyr.	1	1953	1955	2.1667	unknown	796.9	
+444	Sal	1	1954	1954	0.0000	premature	777	
+513	Bat	1	1954	1954	0.0000	stillborn	779.9	
+571	CR	1	1954	1955	1.5833	malnutrition (?)	267	
+579	CR	1	1954	1955	1.4167	malnutrition (?)	267	
+679	Sal	1	1954	1959	5.0000	unknown	796.9	
+490	Sal	1	1955	1955	0.0685	congential debility	758.9	
+494	Sal	1	1955	1955	0.1667	broncho-pneumonia	485	
+525	Bat	1	1955	1956	1.2500	malnutrition (?)	267	
+529	Bat	1	1955	1955	0.1154	malnutrition (?)	267	
+688	Bat	1	1955	1957	2.0000	malnutrition (?)	267	
+699	Bat	1	1955	1961	6.0000	anaemia	285.9	
+489	Sal	1	1956	1956	0.0110	sudden	796.9	
+526	Bat	1	1956	1956	0.1667	malnutrition (?)	267	
+548	Bat	1	1956	1956	0.0833	congential debility	758.9	
+610	St. Cyr.	1	1956	1956	0.6667	malnutrition (?)	267	
+689	Bat	1	1956	1957	1.0000	malnutrition (?)	267	
+725	CR	1	1956	1958	2.0000	broncho-pneumonia	485	
+766	Sinecou	1	1956	1957	0.9167	malnutrition (?)	267	
+653	Sal	1	1957	1957	0.7500	malnutrition (?)	267	"site is ""Salybia""; same as ""Sal"" (?)"
+655	Sal	1	1957	1958	1.6667	malnutrition (?)	267	
+656	Sal	1	1957	1958	1.5000	malnutrition (?)	267	
+683	Bat	1	1957	1964	7.0000	tetanus	37	
+724	CR	1	1957	1958	1.6667	broncho-pneumonia	485	
+743	St. Cyr.	1	1957	1958	1.0000	diarrhea	9.1	
+746	St. Cyr.	1	1957	1959	2.0000	worms	128	
+719	Bat	1	1958	1961	3.0000	sudden	796.9	
+731	CR	1	1958	1960	2.5000	septicemia	38.9	
+739	GR	1	1958	1958	0.5000	malnutrition (?)	267	
+751	St. Cyr.	1	1958	1959	1.3333	convulsion	780.2	
+779	Jum Gut.	1	1958	1959	1.0000	ascariasis	127	
+680	Sal	1	1959	1960	1.6667	unknown	796.9	
+721	CR	1	1959	1959	0.4167	malnutrition (?)	267	
+752	St. Cyr.	1	1959	1959	0.0137	sudden	796.9	
+797	Bat	1	1959	1967	8.0000	malnutrition (?)	267	
+647	Sal	1	1960	1960	0.0833	influenza	470	
+658	Sal	1	1960	1960	0.3333	malnutrition (?)	267	
+659	Sal	1	1960	1960	0.7500	malnutrition (?)	267	
+693	Bat	1	1960	1961	1.5000	malnutrition (?)	267	gastroenteritis and malnutrition
+694	Bat	1	1960	1963	3.0000	malnutrition (?)	267	
+764	Snake	1	1960	1963	3.0000	whooping cough	33.9	
+841	Sinecou	1	1960	1970	10.0000	anaemia	285.9	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+650	Sal	1	1961	1963	2.5000	whooping cough	33.9	
+660	Sal	1	1961	1962	1.6667	malnutrition (?)	267	cold
+735	CR	1	1961	1961	0.0630	sudden	796.9	
+742	GR	1	1961	1961	0.0027	unknown	796.9	
+756	Snake	1	1961	1961	0.0000	stillborn	779.9	"site is ""Snak""; same as ""Snake"" (?)"
+649	Sal	1	1962	1963	1.3333	whooping cough	33.9	
+661	Sal	1	1962	1962	0.1667	malnutrition (?)	267	
+698	Bat	1	1962	1963	0.9167	pulmonary abscess	513	
+759	Snake	1	1962	1962	0.0274	tetanus	37	
+662	Sal	1	1963	1963	0.5833	malnutrition (?)	267	
+663	Sal	1	1963	1964	1.3333	malnutrition (?)	267	gastroenteritis
+670	Sal	1	1963	1963	0.0027	asphyxia	776.9	"born ""blue"""
+765	Snake	1	1963	1963	0.1667	malnutrition (?)	267	
+740	MR	1	1965	1965	0.1154	bronchitis	490	
+645	Sal	1	1966	1966	0.7500	gastroenteritis	9.2	
+798	Bat	1	1966	1969	3.0000	drowning	994.1	
+832	Sinecou	1	1966	1969	3.0000	gastroenteritis	9.2	
+780	Sal	1	1967	1968	0.9167	gastroenteritis	9.2	
+806	Bat	1	1968	1968	0.5000	pneumonia	486	
+823	NR	1	1968	1971	3.5000	gastroenteritis	9.2	
+831	Sinecou	1	1968	1968	0.7500	gastroenteritis	9.2	
+782	Sal	1	1969	1971	2.5000	whooping cough	33.9	"site is ""Salybia""; same as ""Sal"" (?)"
+830	St. Cyr.	1	1969	1971	2.0000	pneumonia	486	
+833	Sinecou	1	1969	1969	0.4167	malnutrition (?)	267	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+834	Sinecou	1	1969	1969	0.4167	malnutrition (?)	267	
+809	Bat	1	1970	1970	0.0082	respitory distress	776.9	
+822	Mahaut	1	1970	1970	0.0301	premature	777	
+278	Sal	1		1946		whooping cough	33.9	
+280	Sal	1		1945		malaria	84	
+298	Sal	1		1945		malnutrition (?)	267	
+324	Sal	1		1943		unknown	796.9	
+336	Bat	1		1945		worms	128	
+343	Bat	1		1946		influenza	470	
+378	CR	1		1942		diarrhea	9.1	dysentary
+423	St. Cyr.	1		1946		diarrhea	9.1	
+426	St. Cyr.	1		1944		influenza	470	
+441	Snake	1		1946		malnutrition (?)	267	"site is ""Snake Coe""; same as ""Snake"" (?)"
+455	Sal	1		1947		whooping cough	33.9	
+499	Sal	1		1948		unknown	796.9	
+536	Bat	1		1949		accident	796	
+578	GR	1		1952		ancylostomiasis	126.9	anaemia; hookworm
+607	St. Cyr.	1		1953		malnutrition (?)	267	
+624	Snake	1		1947		whooping cough	33.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+666	Sal	1		1963		heart failure	427	
+673	Sal	1		1966		broncho-pneumonia	485	
+678	Sal	1		1958		nephritis	590.1	
+736	GR	1		1960		gastroenteritis	9.2	diarrhea
+769	Snake	1		1958		pneumonia	486	"site is ""Snake Coe""; same as ""Snake"" (?)"
+776	Snake	1		1958		old age	794	"senile decay; site is ""Snake Coe""--same as ""Snake"" (?)"
+785	Sal	1		1970		heart disease	427	"site is ""Salybia""; same as ""Sal"" (?)"
+805	Bat	1		1967		broncho-pneumonia	485	
+815	CR	1		1967		pulmonary fibrosis	517	
+836	Sinecou	1		1969		old age	794	senility
+840	Sinecou	1		1970		anaemia	285.9	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+20	Sal	1		1919		worms	128	
+149	Sal	2	1826	1929	103.0000	old age	794	
+33	Sal	2	1830	1920	90.0000	blood disorder	289.9	
+75	Bat	2	1832	1919	87.0000	diarrhea	9.1	
+129	Sal	2	1833	1933	100.0000	whooping cough	33.9	
+150	Sal	2	1834	1929	95.0000	old age	794	senile
+70	Bat	2	1835	1925	90.0000	diarrhea	9.1	
+24	Sal	2	1839	1919	80.0000	pyrexia (fever)	788.6	
+16	Sal	2	1840	1920	80.0000	diarrhea	9.1	
+323	Sal	2	1843	1942	99.0000	old age	794	senile debility
+415	GR	2	1843	1938	95.0000	old age	794	senility
+179	Bat	2	1844	1935	91.0000	old age	794	senile
+73	Bat	2	1851	1921	70.0000	diarrhea	9.1	
+436	St. Cyr.	2	1851	1946	95.0000	old age	794	senile decay
+593	MR	2	1851	1955	104.0000	old age	794	"senility; site is ""Mah. R.""--same as ""MR"" (?)"
+174	Bat	2	1853	1928	75.0000	pneumonia	486	
+198	CR	2	1854	1932	78.0000	old age	794	
+813	Bat	2	1855	1969	114.0000	old age	794	
+591	GR	2	1860	1950	90.0000	old age	794	senility
+17	Sal	2	1861	1920	59.0000	diarrhea	9.1	
+37	Sal	2	1861	1921	60.0000	heartburn	784.3	heart pain
+504	Sal	2	1862	1947	85.0000	old age	794	senility
+592	MR	2	1864	1953	89.0000	old age	794	senility
+201	CR	2	1865	1936	71.0000	unknown	796.9	
+398	GR	2	1865	1940	75.0000	malaria	84	"diarrhea; site is ""Gaul. Riv.""--same as ""GR"" (?)"
+508	Sal	2	1865	1952	87.0000	old age	794	senility
+240	St. Cyr.	2	1866	1933	67.0000	gastroenteritis	9.2	enteritis
+714	Bat	2	1866	1965	99.0000	old age	794	senility
+103	GR	2	1868	1922	54.0000	pleurisy/TB	12.1	
+207	Snake	2	1868	1935	67.0000	gastroenteritis	9.2	"""Snake Cove"" (?); enteritis"
+72	Bat	2	1871	1921	50.0000	diarrhea	9.1	
+257	St. Cyr.	2	1871	1936	65.0000	pulmonary TB	11.9	
+322	Sal	2	1871	1941	70.0000	old age	794	senile debility
+373	Bat	2	1871	1945	74.0000	old age	794	senile debility
+199	CR	2	1872	1932	60.0000	unknown	796.9	
+19	Sal	2	1873	1926	53.0000	diarrhea	9.1	
+60	Bat	2	1874	1923	49.0000	pleurisy/TB	12.1	
+38	Sal	2	1875	1925	50.0000	gangreen (?)	445.9	lame foot
+506	Sal	2	1876	1949	73.0000	old age	794	senility
+574	CR	2	1876	1956	80.0000	old age	794	senility
+269	Concord.	2	1877	1932	55.0000	pyrexia (fever)	788.6	
+422	St. Cyr.	2	1877	1937	60.0000	diarrhea	9.1	dysentary
+553	Bat	2	1877	1955	78.0000	old age	794	senility
+712	Bat	2	1877	1957	80.0000	old age	794	senility
+741	GR	2	1877	1959	82.0000	old age	794	"senility, anaemia, and constipation"
+255	St. Cyr.	2	1878	1935	57.0000	pleurisy/TB	12.1	
+554	Bat	2	1878	1956	78.0000	old age	794	senile decay
+601	St. Cyr.	2	1879	1947	68.0000	malaria	84	
+110	GR	2	1881	1920	39.0000	blood disease	289.9	
+614	St. Cyr.	2	1881	1956	75.0000	old age	794	senility
+777	Snake	2	1881	1961	80.0000	old age	794	"code on card was 779.9, but that is code for stillbirth"
+212	Snake	2	1883	1931	48.0000	pleurisy/TB	12.1	"""Snak"" (?)"
+79	Bat	2	1885	1917	32.0000	diarrhea	9.1	
+705	Bat	2	1885	1961	76.0000	cancer	199.1	senility
+153	Bat	2	1887	1930	43.0000	diarrhea	9.1	
+791	Sal	2	1887	1971	84.0000	old age	794	"senility; site is ""Salybia""--same as ""Sal"" (?)"
+23	Sal	2	1889	1919	30.0000	pyrexia (fever)	788.6	
+74	Bat	2	1890	1920	30.0000	diarrhea	9.1	
+136	Sal	2	1890	1929	39.0000	TB	11.9	consumption
+790	Sal	2	1890	1968	78.0000	old age	794	senility
+361	Bat	2	1891	1945	54.0000	anaemia	285.9	
+552	Bat	2	1891	1951	60.0000	old age	794	senile decay
+253	St. Cyr.	2	1897	1935	38.0000	pulmonary TB	11.9	influenza
+787	Sal	2	1897	1967	70.0000	pneumonia	486	
+827	St. Cyr.	2	1897	1967	70.0000	broncho-pneumonia	485	
+30	Sal	2	1900	1924	24.0000	pleurisy/TB	12.1	
+111	GR	2	1900	1924	24.0000	blood disease	289.9	
+342	Bat	2	1900	1946	46.0000	malaria	84	
+449	Sal	2	1900	1951	51.0000	ancylostomiasis	126.9	anaemia; hookworm
+458	Sal	2	1902	1947	45.0000	malaria	84	
+462	Sal	2	1902	1952	50.0000	pulmonary TB	11.9	
+556	Bat	2	1902	1951	49.0000	unknown	796.9	pyroneplurosis
+36	Sal	2	1903	1917	14.0000	heartburn	784.3	heart pain
+77	Bat	2	1903	1917	14.0000	diarrhea	9.1	
+178	Bat	2	1903	1932	29.0000	heart failure	427	
+802	Bat	2	1903	1971	68.0000	arteriosclerosis	440.9	
+364	Bat	2	1904	1941	37.0000	anaemia	285.9	
+537	Bat	2	1904	1950	46.0000	accident	796	internal hemorage
+197	CR	2	1905	1933	28.0000	child birth	677	
+261	St. Cyr.	2	1905	1934	29.0000	pneumonia	486	
+271	Pequa	2	1905	1927	22.0000	drowning	994.1	
+543	Bat	2	1905	1951	46.0000	heart disease	427	hypertension
+213	Snake	2	1906	1935	29.0000	pulmonary TB	11.9	"toxaemia; ""Snake Cove"" (?)"
+582	GR	2	1906	1947	41.0000	pulmonary TB	11.9	
+623	Snake	2	1906	1955	49.0000	gastroenteritis	9.2	diarrhea; anaemia and enteritis
+139	Sal	2	1907	1932	25.0000	TB	11.9	consumption
+254	St. Cyr.	2	1907	1935	28.0000	pulmonary TB	11.9	
+427	St. Cyr.	2	1907	1938	31.0000	pleurisy/TB	12.1	
+492	Sal	2	1907	1955	48.0000	anaemia	285.9	"""pernicious"" anaemia"
+594	GR	2	1907	1954	47.0000	unknown	796.9	
+118	Unknown	2	1908	1924	16.0000	pleurisy/TB	12.1	
+125	Sal	2	1908	1930	22.0000	diarrhea	9.1	
+134	Sal	2	1908	1928	19.0000	pleurisy/TB	12.1	
+97	CR	2	1909	1924	14.0000	pleurisy/TB	12.1	
+195	CR	2	1909	1933	24.0000	hemorage	458.9	hemorage due to gastricular retention of urine and overflow toxemia
+235	GR	2	1909	1935	26.0000	toxaemia	796	
+260	St. Cyr.	2	1909	1935	26.0000	toxaemia	796	
+368	Bat	2	1909	1939	30.0000	child birth	677	eclampsia
+385	CR	2	1909	1938	29.0000	pulmonary TB	11.9	
+294	Sal	2	1910	1941	31.0000	pulmonary TB	11.9	
+81	Bat	2	1912	1922	10.0000	heart disease	784.3	
+387	CR	2	1912	1943	31.0000	pulmonary TB	11.9	
+464	Sal	2	1912	1953	41.0000	pulmonary TB	11.9	
+39	Sal	2	1914	1919	5.0000	unknown	796.9	
+231	GR	2	1914	1932	18.0000	heart failure	427	
+22	Sal	2	1915	1918	3.0000	pyrexia (fever)	788.6	
+12	Sal	2	1916	1917	1.6700	diarrhea	9.1	
+91	CR	2	1916	1919	3.0000	diarrhea	9.1	
+1	Sal	2	1917	1917	0.0000	stillborn	779.9	
+2	Sal	2	1917	1917	0.0000	stillborn	779.9	
+63	Bat	2	1917	1920	3.0000	worms	128	
+87	CR	2	1917	1921	4.0000	worms	128	
+104	GR	2	1917	1917	0.0082	pyrexia (fever)	788.6	
+159	Bat	2	1917	1932	15.0000	worms	128	
+186	CR	2	1917	1930	13.0000	worms	128	
+3	Sal	2	1918	1918	0.0000	stillborn	779.9	
+47	Bat	2	1918	1918	0.0219	pyrexia (fever)	788.6	
+84	CR	2	1918	1918	0.0000	stillborn	779.9	
+98	GR	2	1918	1918	0.0000	stillborn	779.9	
+101	MahR	2	1918	1918	0.0000	stillborn	779.9	
+115	Snake	2	1918	1919	1.0000	unknown	796.9	
+386	CR	2	1918	1939	21.0000	TB	11.9	"site is ""C. Riv.""; same as ""CR"" (?)"
+580	GR	2	1918	1948	30.0000	cholera	0	"site is ""Gaul R.""; same as ""GR"""
+4	Sal	2	1919	1919	0.0000	stillborn	779.9	
+18	Sal	2	1919	1921	2.0000	diarrhea	9.1	
+173	Bat	2	1919	1927	8.0000	pneumonia	486	
+5	Sal	2	1920	1920	0.0000	stillborn	779.9	
+64	Bat	2	1920	1920	0.0577	worms	128	
+65	Bat	2	1920	1920	0.8333	worms	128	
+85	CR	2	1920	1920	0.0000	stillborn	779.9	
+102	GR	2	1920	1920	0.2500	worms	128	
+370	Bat	2	1920	1939	19.0000	accident	796	trauma fracture; shock
+388	CR	2	1920	1945	25.0000	pulmonary TB	11.9	
+21	Sal	2	1921	1922	1.5800	worms	128	
+54	Bat	2	1921	1921	0.0219	tetanus	37	
+66	Bat	2	1921	1921	0.2500	worms	128	
+587	GR	2	1921	1947	26.0000	drowning	994.1	"site is ""Gaul R.""; same as ""GR"""
+762	Sine	2	1921	1966	45.0000	worms	128	anaemia
+184	CR	2	1922	1927	5.0000	worms	128	
+220	GR	2	1922	1927	5.0000	worms	128	
+818	CR	2	1922	1971	49.0000	TB	11.9	
+400	MR	2	1923	1943	20.0000	typhoid fever	1	enteric fever
+8	Sal	2	1924	1924	0.0000	stillborn	779.9	
+41	Bat	2	1924	1924	0.0000	stillborn	779.9	
+100	GR	2	1924	1924	0.0000	stillborn	779.9	
+126	Sal	2	1924	1927	3.0000	worms	128	
+170	Bat	2	1924	1936	12.0000	pulmonary TB	11.9	
+185	CR	2	1924	1927	3.0000	worms	128	
+55	Bat	2	1925	1925	0.0577	tetanus	37	
+68	Bat	2	1925	1925	0.9167	worms	128	
+141	Sal	2	1925	1934	9.0000	pulmonary TB	11.9	
+190	CR	2	1925	1933	8.0000	whooping cough	33.9	
+359	Bat	2	1925	1942	17.0000	anaemia	285.9	
+778	Concord.	2	1925	1960	35.0000	cancer	199.1	abdominal tumor
+9	Sal	2	1926	1926	0.0000	stillborn	779.9	
+11	Sal	2	1926	1926	0.0137	tetanus	37	
+242	St. Cyr.	2	1926	1934	8.0000	ascariasis	127	
+252	St. Cyr.	2	1926	1934	8.0000	pulmonary TB	11.9	
+539	Bat	2	1926	1952	26.0000	anaemia	285.9	
+192	CR	2	1927	1927	0.1154	malnutrition (?)	267	dropsy
+140	Sal	2	1929	1934	5.0000	tubercular meningitis	13	
+167	Bat	2	1929	1929	0.5833	pyrexia (fever)	788.6	
+221	MR	2	1929	1929	0.0833	worms	128	
+754	St. Cyr.	2	1929	1966	37.0000	syphilis	92.9	
+130	Sal	2	1930	1930	0.5000	mumps	72	
+158	Bat	2	1930	1939	0.6667	worms	128	
+187	CR	2	1930	1932	2.0000	worms	128	
+128	Sal	2	1931	1932	1.5000	worms	128	
+161	Bat	2	1931	1931	0.0274	influenza	470	
+287	Sal	2	1931	1939	8.0000	malaria	84	
+381	CR	2	1931	1937	6.0000	worms	128	
+476	Sal	2	1931	1953	22.0000	malnutrition (?)	267	
+784	Sal	2	1931	1967	36.0000	heart failure	427	
+189	CR	2	1932	1933	1.1667	whooping cough	33.9	
+217	GR	2	1932	1932	0.0000	stillborn	779.9	
+463	Sal	2	1932	1952	20.0000	pulmonary TB	11.9	
+628	Snake	2	1932	1952	20.0000	anaemia	285.9	"""pernicious"" anaemia; site is ""Snake Coe""--same as ""Snake"" (?)"
+162	Bat	2	1933	1933	0.0833	whooping cough	33.9	
+163	Bat	2	1933	1933	1.5000	whooping cough	33.9	
+180	CR	2	1933	1933	0.0000	stillborn	779.9	
+181	CR	2	1933	1933	0.0000	stillborn	779.9	
+204	Snake	2	1933	1933	0.0164	gastroenteritis	9.2	
+216	Snake	2	1933	1933	0.0027	toxemia	796	
+219	GR	2	1933	1934	1.2500	gastroenteritis	9.2	
+226	MR	2	1933	1933	0.4167	influenza	470	
+237	St. Cyr.	2	1933	1933	0.0000	stillborn	779.9	
+243	St. Cyr.	2	1933	1935	2.5000	ancylostomiasis	126.9	hookworms
+249	St. Cyr.	2	1933	1933	0.1667	whooping cough	33.9	
+268	Unknown	2	1933	1933	0.4167	influenza	470	
+335	Bat	2	1933	1940	7.0000	ascariasis	127	
+428	St. Cyr.	2	1933	1944	11.0000	malnutrition (?)	267	
+155	Bat	2	1934	1934	0.0027	gastroenteritis	9.2	
+156	Bat	2	1934	1936	2.0000	gastroenteritis	9.2	enteritis
+160	Bat	2	1934	1935	0.9167	worms	128	
+238	St. Cyr.	2	1934	1934	0.0000	stillborn	779.9	
+239	St. Cyr.	2	1934	1934	0.0000	stillborn	779.9	
+270	Namaut R.	2	1934	1935	1.9167	diarrhea	9.1	dysentery
+143	Sal	2	1935	1935	0.0082	congenital vaginitis	758.9	congenital malformation
+188	CR	2	1935	1935	0.0384	ascariasis	127	
+466	Sal	2	1935	1954	19.0000	pulmonary TB	11.9	
+572	CR	2	1935	1953	18.0000	unknown	796.9	
+246	St. Cyr.	2	1936	1936	0.0356	ascariasis	127	
+283	Sal	2	1936	1942	6.0000	chronic bronchitis	490	
+354	Bat	2	1936	1944	8.0000	malnutrition (?)	267	
+431	St. Cyr.	2	1936	1946	10.0000	ptomaine poisoning	5.9	food poisoning
+276	Sal	2	1937	1937	0.0014	gastroenteritis	9.2	
+285	Sal	2	1937	1941	4.0000	whooping cough	33.9	
+288	Sal	2	1937	1941	4.0000	whooping cough	33.9	
+314	Sal	2	1937	1937	0.2917	congenital malformation	758.9	congenital debility
+337	Bat	2	1937	1937	0.8333	malaria	84	
+338	Bat	2	1937	1937	0.5000	malaria	84	
+409	MR	2	1937	1941	4.0000	malnutrition (?)	267	
+772	Sinaec	2	1937	1959	22.0000	anaemia	285.9	"should the site be ""Sinecou"" (?)"
+316	Sal	2	1938	1940	2.1667	nephritis	590.1	"site is ""Saly""; same as ""Sal"" (?)"
+367	Bat	2	1938	1938	0.0219	toxaemia	796	
+403	GR	2	1938	1945	7.0000	pulmonary TB	11.9	"site is ""Gaul. R.""; same as ""GR"" (?)"
+425	St. Cyr.	2	1938	1938	0.0833	bronchitis	490	
+291	Sal	2	1939	1941	2.0000	whooping cough	33.9	
+339	Bat	2	1939	1941	2.0000	whooping cough	33.9	
+377	CR	2	1939	1939	0.6667	gastroenteritis	9.2	"site is ""C. Riv.""; same as ""CR"" (?)"
+413	GR	2	1939	1941	2.0000	broncho-pneumonia	485	
+439	Snake	2	1939	1940	1.1667	malnutrition (?)	267	"site is ""Snake Cove""; same as ""Snake"" (?)"
+445	Sal	2	1939	1947	8.0000	diarrhea	9.1	dysentary
+588	GR	2	1939	1947	8.0000	anaemia	285.9	"site is ""Gaul R.""; same as ""GR"""
+632	Snake	2	1939	1952	13.0000	broncho-pneumonia	485	"site is ""Snake Coe""; same as ""Snake"" (?)"
+303	Sal	2	1940	1943	3.0000	malnutrition (?)	267	
+327	Bat	2	1940	1940	0.0000	stillborn	779.9	
+328	Bat	2	1940	1940	0.0000	stillborn	779.9	
+329	Bat	2	1940	1940	0.0000	stillborn	779.9	
+331	Bat	2	1940	1940	0.0000	stillborn	779.9	
+340	Bat	2	1940	1941	1.5833	bronchitis	490	capillary bronchitis
+350	Bat	2	1940	1942	2.0000	marasmus	268	
+369	Bat	2	1940	1940	0.0329	hemorage	458.9	hemorage of umbilical cord
+418	St. Cyr.	2	1940	1940	0.0000	stillborn	779.9	
+429	St. Cyr.	2	1940	1945	5.0000	malnutrition (?)	267	
+835	Unknown	2	1940	1970	30.0000	cirrhosis of liver	571	
+306	Sal	2	1941	1942	1.5833	marasmus	268	
+320	Sal	2	1941	1941	0.7500	broncho-pneumonia	485	
+321	Sal	2	1941	1941	0.0385	broncho-pneumonia	485	
+341	Bat	2	1941	1941	0.0959	whooping cough	33.9	
+438	Snake	2	1941	1942	1.2500	diarrhea	9.1	"site is ""Snake Coe""; same as ""Snake"" (?)"
+274	Sal	2	1942	1942	0.0000	stillborn	779.9	
+299	Sal	2	1942	1944	2.0000	malnutrition (?)	267	
+304	Sal	2	1942	1943	1.0000	malnutrition (?)	267	
+307	Sal	2	1942	1942	0.7500	marasmus	268	
+332	Bat	2	1942	1942	0.0000	stillborn	779.9	
+352	Bat	2	1942	1943	1.0000	malnutrition (?)	267	
+419	St. Cyr.	2	1942	1942	0.0000	stillborn	779.9	
+437	Snake	2	1942	1942	0.0000	stillborn	779.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+515	Bat	2	1942	1949	7.0000	ascariasis	127	
+300	Sal	2	1943	1944	1.0000	malnutrition (?)	267	
+301	Sal	2	1943	1944	1.0000	malnutrition (?)	267	
+382	CR	2	1943	1944	1.0000	worms	128	
+383	CR	2	1943	1945	2.0000	worms	128	
+420	St. Cyr.	2	1943	1943	0.0000	stillborn	779.9	
+421	St. Cyr.	2	1943	1943	0.0000	stillborn	779.9	mother fell
+446	Sal	2	1943	1948	5.0000	ascariasis	127	
+297	Sal	2	1944	1945	1.0000	malnutrition (?)	267	
+318	Sal	2	1944	1944	0.0301	premature	777	
+356	Bat	2	1944	1945	1.0000	malnutrition (?)	267	
+296	Sal	2	1945	1946	1.0000	malnutrition (?)	267	
+357	Bat	2	1945	1946	1.0000	malnutrition (?)	267	
+380	CR	2	1945	1946	1.0000	diarrhea	9.1	
+430	St. Cyr.	2	1945	1946	1.0000	malnutrition (?)	267	
+542	Bat	2	1945	1948	3.0000	broncho-pneumonia	485	
+771	Sinecou	2	1945	1960	15.0000	pneumonia	486	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+334	Bat	2	1946	1946	0.0000	premature	777	
+460	Sal	2	1946	1947	1.0000	whooping cough	33.9	
+602	St. Cyr.	2	1946	1947	1.0000	whooping cough	33.9	
+603	St. Cyr.	2	1946	1947	1.0000	whooping cough	33.9	
+669	Sal	2	1946	1961	15.0000	perforated duodenal ulcer	532.1	
+675	Sal	2	1946	1958	12.0000	anaemia	285.9	
+723	CR	2	1946	1961	15.0000	drowning	994.1	
+454	Sal	2	1947	1954	7.0000	ancylostomiasis	126.9	hookworms
+495	Sal	2	1947	1952	5.0000	broncho-pneumonia	485	ascarsis
+611	St. Cyr.	2	1947	1947	0.0000	congential debility	758.9	congenital malformation
+618	Snake	2	1947	1947	0.0000	stillborn	779.9	"mother fell; site is ""Snake Coe.""--same as ""Snake"" (?)"
+619	Snake	2	1947	1947	0.0000	stillborn	779.9	"mother fell; site is ""Snake Coe.""--same as ""Snake"" (?)"
+583	GR	2	1948	1948	0.4167	malnutrition (?)	267	
+598	St. Cyr.	2	1948	1950	2.1667	ascariasis	127	
+803	Bat	2	1948	1967	19.0000	endocarditis	427	
+461	Sal	2	1949	1951	2.7500	whooping cough	33.9	malaria
+473	Sal	2	1949	1952	3.0000	malnutrition (?)	267	oedema
+638	Snake	2	1949	1949	0.5833	unknown	796.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+453	Sal	2	1950	1953	2.5833	worms	128	
+560	CR	2	1950	1950	0.0000	stillborn	779.9	
+839	Sinecou	2	1950	1967	17.0000	chronic mastoiditis 	383.1	
+452	Sal	2	1951	1952	1.7500	ancylostomiasis	126.9	antaminosis oedema
+478	Sal	2	1951	1954	3.0000	malnutrition (?)	267	
+480	Sal	2	1951	1955	4.0000	malnutrition (?)	267	
+533	Bat	2	1951	1952	0.9167	malnutrition (?)	267	
+544	Bat	2	1951	1952	1.6667	unknown	796.9	
+606	St. Cyr.	2	1951	1952	2.0000	malnutrition (?)	267	oedema
+613	St. Cyr.	2	1951	1951	0.1667	broncho-pneumonia	485	
+616	St. Cyr.	2	1951	1952	1.0833	unknown	796.9	eupliative dematitis
+820	GR	2	1951	1969	18.0000	pneumonia	486	"site is ""G. River""; same as ""GR"" and ""Gual Riv"" (?)"
+474	Sal	2	1952	1952	0.6667	malnutrition (?)	267	
+502	Sal	2	1952	1952	0.3333	coeliar disorder	796.9	
+562	CR	2	1952	1952	0.0000	stillborn	779.9	
+585	GR	2	1952	1952	0.5000	malnutrition (?)	267	
+620	Snake	2	1952	1952	0.0000	premature	777	"site is ""Snake Coe""; same as ""Snake"" (?)"
+696	Bat	2	1952	1963	11.0000	malnutrition (?)	267	
+528	Bat	2	1953	1955	2.0000	malnutrition (?)	267	asthma
+575	GR	2	1953	1953	0.0000	stillborn	779.9	
+631	Snake	2	1953	1953	0.0329	asthma	493	"site is ""Snake Coe""; same as ""Snake"" (?)"
+722	CR	2	1953	1959	6.0000	malnutrition (?)	267	
+483	Sal	2	1954	1956	2.0000	malnutrition (?)	267	worms
+608	St. Cyr.	2	1954	1955	1.0833	malnutrition (?)	267	
+609	St. Cyr.	2	1954	1956	2.0000	malnutrition (?)	267	
+626	Snake	2	1954	1954	0.5000	malnutrition (?)	267	"oedema; site is ""Snake Coe""--same as ""Snake"" (?)"
+639	Unknown	2	1954	1955	1.6667	malnutrition (?)	267	worms
+479	Sal	2	1955	1955	0.2500	malnutrition (?)	267	
+481	Sal	2	1955	1955	0.5000	malnutrition (?)	267	
+482	Sal	2	1955	1956	1.5000	malnutrition (?)	267	worms
+521	Bat	2	1955	1955	0.1154	bronchitis	490	
+523	Bat	2	1955	1956	1.5000	malnutrition (?)	267	
+527	Bat	2	1955	1955	0.7500	malnutrition (?)	267	
+547	Bat	2	1955	1955	0.0575	congential debility	758.9	
+586	GR	2	1955	1956	1.5000	malnutrition (?)	267	
+701	Bat	2	1955	1958	3.0000	heart disease	427	carruadsioua
+524	Bat	2	1956	1956	0.8333	malnutrition (?)	267	
+581	GR	2	1956	1956	0.6667	pyrexia (fever)	788.6	"site is ""Gaul. Riv.""; same as ""GR"" (?)"
+615	St. Cyr.	2	1956	1956	0.0164	sudden	796.9	
+654	Sal	2	1957	1957	0.7500	malnutrition (?)	267	"site is ""Salybia""; same as ""Sal"" (?)"
+690	Bat	2	1957	1958	1.4167	malnutrition (?)	267	
+733	CR	2	1957	1958	1.0000	sudden	796.9	
+753	St. Cyr.	2	1957	1957	0.5833	broncho-pneumonia	485	
+763	Snake	2	1957	1963	6.0000	whooping cough	33.9	
+767	Sinecou	2	1957	1960	3.0000	malnutrition (?)	267	worms (?)
+843	Sinecou	2	1957	1970	13.0000	hemorage	458.9	"hemorage of the rectum; site is ""Sinecous""---same as ""Sine"" and ""Sinecou"" (?)"
+657	Sal	2	1958	1959	1.5000	malnutrition (?)	267	
+770	Snake	2	1958	1958	0.5000	pneumonia	486	"site is ""Snake Coe""; same as ""Snake"" (?)"
+671	Sal	2	1959	1961	2.0000	bronchitis	490	acute tracheo-bronchitis
+692	Bat	2	1959	1960	1.5833	malnutrition (?)	267	diarrhea
+747	St. Cyr.	2	1959	1960	1.5833	malnutrition (?)	267	worms (?)
+643	Sal	2	1960	1961	1.0000	gastroenteritis	9.2	
+646	Sal	2	1960	1961	0.7500	worms	128	
+718	Bat	2	1960	1960	0.0164	premature	777	
+684	Bat	2	1961	1961	0.3333	gastroenteritis	9.2	
+726	CR	2	1961	1962	1.0833	broncho-pneumonia	485	autaminomia
+648	Sal	2	1962	1963	1.2500	whooping cough	33.9	
+695	Bat	2	1962	1963	0.9167	malnutrition (?)	267	
+707	Bat	2	1962	1963	1.5000	broncho-pneumonia	485	
+727	CR	2	1962	1964	3.0000	broncho-pneumonia	485	
+748	St. Cyr.	2	1962	1962	0.2500	malnutrition (?)	267	
+755	St. Cyr.	2		1962		heart disease	427	"senility, degeneration; birth and death years are 1962 w/ no age---birth year is likely unknown"
+672	Sal	2	1963	1963	0.0577	pneumonia	486	
+708	Bat	2	1963	1963	0.0548	pneumonia	486	
+737	MR	2	1963	1966	3.0000	gastroenteritis	9.2	enteritis
+738	GR	2	1963	1963	0.3333	whooping cough	33.9	
+749	St. Cyr.	2	1963	1963	0.2500	whooping cough	33.9	
+825	St. Cyr.	2	1963	1969	6.0000	gastroenteritis	9.2	
+686	Bat	2	1964	1965	1.2500	gastroenteritis	9.2	
+710	Bat	2	1964	1966	2.0000	pneumonia	486	
+744	St. Cyr.	2	1964	1965	1.6667	gastroenteritis	9.2	
+768	Sine	2	1964	1965	1.5000	malnutrition (?)	267	gastroenteritis
+644	Sal	2	1965	1965	0.2500	gastroenteritis	9.2	
+681	Sal	2	1965	1965	0.6667	premature	777	
+685	Bat	2	1965	1965	0.6667	gastroenteritis	9.2	
+709	Bat	2	1965	1966	1.5000	broncho-pneumonia	485	
+761	Sine	2	1965	1965	0.1923	gastroenteritis	9.2	
+745	St. Cyr.	2	1966	1966	0.0833	gastroenteritis	9.2	
+758	Sine	2	1966	1966	0.0000	stillborn	779.9	"site same as ""Sinecou"" (?)"
+774	Sine	2	1966	1966	0.0164	congenital malformation	758.9	
+819	GR	2	1967	1967	0.0000	stillborn	779.9	"site is ""G. River""; same as ""GR"" and ""Gual Riv"" (?)"
+838	Sinecou	2	1967	1967	0.0082	congenital malformation	758.9	
+792	Sal	2	1968	1969	0.9167	unknown	796.9	
+808	Bat	2	1968	1968	1.0000	broncho-pneumonia	485	
+793	Sal	2	1969	1971	2.0000	unknown	796.9	"site is ""Salybia""; same as ""Sal"" (?)"
+794	Bat	2	1969	1969	0.7500	gastroenteritis	9.2	
+796	Bat	2	1969	1971	2.5000	whooping cough	33.9	
+828	St. Cyr.	2	1969	1969	0.0137	suffocation	994.7	
+829	St. Cyr.	2	1969	1969	0.7500	pneumonia	486	
+837	Sinecou	2	1971	1971	0.0027	unknown	796.9	"site is ""Sinecous""; same as ""Sinecou"" and ""Sine"" (?)"
+302	Sal	2		1944		malnutrition (?)	267	
+351	Bat	2		1943		malnutrition (?)	267	
+355	Bat	2		1945		malnutrition (?)	267	
+390	CR	2		1945		malnutrition (?)	267	
+456	Sal	2		1947		whooping cough	33.9	
+541	Bat	2		1948		broncho-pneumonia	485	
+551	Bat	2		1950		old age	794	senility
+555	Bat	2		1947		unknown	796.9	
+652	Sal	2		1964		TB	11.9	
+676	Sal	2		1961		anaemia	285.9	
+677	Sal	2		1961		anaemia	285.9	
+700	Bat	2		1959		gangrene	445.9	
+706	Bat	2		1965		cancer of uterus	199.1	
+720	CR	2		1964		TB	11.9	
+729	CR	2		1958		cancer of cervix	199.1	
+732	CR	2		1959		childbirth	677	
+734	CR	2		1961		old age	794	senility
+773	Sine	2		1965		childbirth	677	
+781	Sal	2		1971		gastroenteritis	9.2	"site is ""Salybia""; same as ""Sal"" (?)"
+804	Bat	2		1968		hemorage	458.9	
+817	CR	2		1970		heart disease	427	
+450	Sal		1950	1951	1.7500	ancylostomiasis	126.9	artominosis oedema
+622	Snake		1954	1954	0.0000	stillborn	779.9	"site is ""Snake Coe""; same as ""Snake"" (?)"
+640	Sal		1960	1960	0.0000	stillborn	779.9	
+641	Sal		1962	1962	0.0000	stillborn	779.9	
+642	Sal		1962	1962	0.0000	stillborn	779.9	
+682	Bat		1962	1962	0.0000	stillborn	779.9	mother fell
+757	Snake		1963	1963	0.0000	stillborn	779.9	"site is ""Snak""; same as ""Snake"" (?)"
+814	CR		1967	1967	0.0000	stillborn	779.9	
+807	Bat		1968	1969	1.2500	broncho-pneumonia	485	
+824	St. Cyr.		1968	1968	0.5000	gastroenteritis	9.2	
