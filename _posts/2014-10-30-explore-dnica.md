@@ -1,8 +1,7 @@
 ---
+layout: post
 title: "Historical demography in Dominica with ggplot2"
-output: html_document
-bibliography: dnica.bib
-csl: american-journal-of-physical-anthropology.csl
+comments: yes
 ---
 
 
@@ -35,7 +34,7 @@ library(ggthemr)
 ## Loading required package: grid
 {% endhighlight %}
 
-&iexcl
+<&iexcl>
 
 
 <!--The <iframe> below is for including an interactive ggvis plot that runs from shinyapps.io
