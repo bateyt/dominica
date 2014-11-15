@@ -20,21 +20,19 @@ download.file("https://www.dropbox.com/s/i8dcx7o4lo36tb2/dnica2.txt?dl=1", "dnic
 dnica2 <- read.table("dnica2.txt", header = TRUE, sep = "\t")
 {% endhighlight %}
 
-The data are comprised of parish death records from 1917 to 1971. Let's say we want to explore the age-at-death distribution for the entire sample. A common way to view this is with a histogram, which we'll create using `ggplot2`. I've decided override `ggplot2`'s default color themes using the [`ggthemr` package](https://github.com/cttobin/ggthemr).
+The data are comprised of parish death records from 1917 to 1971. Let's say we want to explore the age-at-death distribution for the entire sample. A common way to view this is with a histogram. I've decided override `ggplot2`'s default color themes using the [`ggthemr` package](https://github.com/cttobin/ggthemr).
 
 
 {% highlight r %}
 library(ggplot2)
 library(ggthemr)
+ggthemr("dust")
+ggplot(dnica2, aes(x = age)) + geom_histogram()
 {% endhighlight %}
 
+![center](http://bateyt.github.io/dominica/figs/2014-10-30-explore-dnica/unnamed-chunk-3-1.png) 
 
 
-{% highlight text %}
-## Loading required package: grid
-{% endhighlight %}
-
-<&iexcl>
 
 
 <!--The <iframe> below is for including an interactive ggvis plot that runs from shinyapps.io
@@ -44,14 +42,8 @@ library(ggthemr)
 
 ### References
 
+[1] L. Honychurch. _The Dominica Story: A History of the Island_. Macmillan, 1995.
 
-{% highlight text %}
-## [1] L. Honychurch. _The Dominica Story: A History of the Island_.
-## Macmillan, 1995.
-## 
-## [2] H. Wickham. _ggplot2: elegant graphics for data analysis_. New
-## York: Springer, 2009.
-## 
-## [3] L. Wilkinson, D. Wills, D. Rope, et al. _The Grammar of
-## Graphics_. New York: Springer, 2006.
-{% endhighlight %}
+[2] H. Wickham. _ggplot2: elegant graphics for data analysis_. New York: Springer, 2009.
+
+[3] L. Wilkinson, D. Wills, D. Rope, et al. _The Grammar of Graphics_. New York: Springer, 2006.

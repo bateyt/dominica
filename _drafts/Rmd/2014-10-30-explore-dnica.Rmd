@@ -1,8 +1,6 @@
 ---
 title: "Historical demography in Dominica with ggplot2"
 output: html_document
-bibliography: dnica.bib
-csl: american-journal-of-physical-anthropology.csl
 ---
 
 ```{r, message=FALSE, echo=FALSE}
@@ -24,14 +22,16 @@ download.file("https://www.dropbox.com/s/i8dcx7o4lo36tb2/dnica2.txt?dl=1", "dnic
 dnica2 <- read.table("dnica2.txt", header = TRUE, sep = "\t")
 ```
 
-The data are comprised of parish death records from 1917 to 1971. Let's say we want to explore the age-at-death distribution for the entire sample. A common way to view this is with a histogram, which we'll create using `ggplot2`. I've decided override `ggplot2`'s default color themes using the [`ggthemr` package](https://github.com/cttobin/ggthemr).
+The data are comprised of parish death records from 1917 to 1971. Let's say we want to explore the age-at-death distribution for the entire sample. A common way to view this is with a histogram. I've decided override `ggplot2`'s default color themes using the [`ggthemr` package](https://github.com/cttobin/ggthemr).
 
-```{r}
+```{r, message=FALSE, warning=FALSE}
 library(ggplot2)
 library(ggthemr)
+ggthemr("dust")
+ggplot(dnica2, aes(x = age)) + geom_histogram()
 ```
 
-&iexcl
+
 
 
 <!--The <iframe> below is for including an interactive ggvis plot that runs from shinyapps.io
