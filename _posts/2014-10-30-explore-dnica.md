@@ -26,7 +26,7 @@ The data are comprised of parish death records from 1917 to 1971. Let's say we w
 {% highlight r %}
 library(ggplot2)
 library(ggthemr)
-ggthemr("dust")
+ggthemr("grape")
 ggplot(dnica2, aes(x = age)) + geom_histogram()
 {% endhighlight %}
 
