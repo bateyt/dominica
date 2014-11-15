@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Historical demography in Dominica with ggplot2"
+comments: yes
 ---
 
 
