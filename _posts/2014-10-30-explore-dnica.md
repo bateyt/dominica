@@ -37,7 +37,7 @@ ggplot(dnica2, aes(x = age)) + geom_histogram()
 
 <!---The <iframe> below is for including an interactive ggvis plot that runs from shinyapps.io-->
 
-<iframe frameborder="0" allowtransparency="true" scrolling="no" height="450" width="100%" src="https://bateyt.shinyapps.io/dnica_age-hist/"></iframe>
+<iframe frameborder="0" allowtransparency="true" scrolling="no" height="100%" width="100%" src="https://bateyt.shinyapps.io/dnica_age-hist/"></iframe>
 
 
 ### References
